@@ -1,0 +1,20 @@
+{
+  "name": "Student Logger",
+  "version": "1.0.0",
+  "description": "Records the students that uses the express computers",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OSA COMMIT-Kevin Martinez",
+  "window": {
+    "kiosk": true,
+	"toolbar": true,
+	"width": 320,
+	"height": 130,
+	"icon": "img/sample.png",
+	"resizable": false,
+	"always-on-top": true
+  },
+  "license": "ISC"
+}
